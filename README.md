@@ -1,3 +1,2 @@
-# FerryTicketReservation
-Washington Ferry Ticket Reservation web application
+# Washington Ferry Ticket Reservation
 ![alt text](images/arrival_options.png)
