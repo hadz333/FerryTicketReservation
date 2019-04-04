@@ -1,0 +1,55 @@
+body {
+  background-image: linear-gradient(to right, #44d827 , #42b0f4);
+  text-align: center;
+}
+h1 {
+  color: white;
+  padding: 20px;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+}
+
+.btn {
+    width: 160px;
+    height: 50px;
+    position: relative;
+    background: transparent;
+    border: 2px solid white;
+    font-family: 'Open Sans';
+    border-radius: 50px;
+    color: white;
+    font-weight: 0;
+    font-size: 1.2em;
+    cursor: pointer;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+
+.btn:hover {
+  	transform: translateY(4px);
+}
+
+form {
+	border: 2px solid white;
+	margin: 5% 10%;
+	padding-left: 10px;
+	display: inline-block;
+	width: 200px;
+}
+
+#confirmationDetails {
+	color: white;
+	font-size: 16px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: left;
+	margin-left: 30%;
+}
+
+#confirmationDetails h2 {
+	color: black;
+	text-decoration: underline;
+}
